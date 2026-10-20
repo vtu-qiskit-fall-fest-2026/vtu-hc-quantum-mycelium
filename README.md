@@ -307,6 +307,6 @@ Released under the [MIT License](LICENSE). See `LICENSE` for details.
 **Quantum Mycelium** · Team ID `VTU-QFF-HC-0131` · Tier `Online`
 · Built with ⚛️ Qiskit for the VTU-QFF Hackathon
 
-[⬆ Back to Top](#Quantum Mycelium)
+[⬆ Back to Top](#quantum-mycelium)
 
 </div>
